@@ -1,6 +1,6 @@
 
 #### This is a fork of the [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)
-switch back to the mainline repo when it gets migrated off JCenter
+Updated to maven and AndroidX - AndroidPdfViewer Maven Library
 
 
 # Android PdfViewer
