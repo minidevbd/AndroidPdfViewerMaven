@@ -63,13 +63,13 @@ dependencyResolutionManagement {
 Add to the app _build.gradle_:
 
 ``` gradle
-implementation 'com.github.lion1988dev:AndroidPdfViewer:3.2.3'
+implementation 'com.github.minidevbd:AndroidPdfViewerX:3.2.41'
 ```
 
 Or add to the app _build.gradle.ktx_:
 
 ``` kotlin
-implementation("com.github.lion1988dev:AndroidPdfViewer:3.2.3")
+implementation("com.github.minidevbd:AndroidPdfViewerX:3.2.41")
 ```
 
 ## ProGuard
